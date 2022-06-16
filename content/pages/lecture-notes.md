@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/notes090403))  
+Introduction ({{% resource_link 0af16a4e-b73d-f6fc-70dc-7dd299b2c4c0 "PDF" %}})  
   
 First Goal
 {{< tdclose >}}
@@ -38,7 +39,7 @@ First Goal
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Recap of Last Time ([PDF]({{< baseurl >}}/resources/notes090903))  
+Recap of Last Time ({{% resource_link f458aebc-5b0a-18b6-b673-0205cf4e8a99 "PDF" %}})  
   
 Irreducible Components  
   
@@ -51,7 +52,7 @@ Projective Space
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Projective Space (cont.) ([PDF]({{< baseurl >}}/resources/notes091603))
+Projective Space (cont.) ({{% resource_link 8a7214bc-8acf-c54d-2fe9-fb2a1c261815 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ Projective Space (cont.) ([PDF]({{< baseurl >}}/resources/notes091603))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Projective Space (cont.) ([PDF]({{< baseurl >}}/resources/notes091803))  
+Projective Space (cont.) ({{% resource_link 93185aa5-11df-49f0-093d-1f8d35941d33 "PDF" %}})  
   
 Topological Diversion  
   
@@ -73,7 +74,7 @@ Sheaves
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Presheaves ([PDF]({{< baseurl >}}/resources/notes092303))  
+Presheaves ({{% resource_link d9c2173d-ca20-6b32-a0af-1d978d2a0433 "PDF" %}})  
   
 Back to Algebraic Geometry
 {{< tdclose >}}
@@ -84,7 +85,7 @@ Back to Algebraic Geometry
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Review of things not covered enough (Topics: Fibers, Morphisms of Sheaves) ([PDF]({{< baseurl >}}/resources/notes093003))  
+Review of things not covered enough (Topics: Fibers, Morphisms of Sheaves) ({{% resource_link 7b57b961-e458-6f15-9a5f-ef5736ba602f "PDF" %}})  
   
 Back to Work  
   
@@ -99,7 +100,7 @@ Varieties
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Homework Review ([PDF]({{< baseurl >}}/resources/notes100203))  
+Homework Review ({{% resource_link 191651a5-b39a-88a1-a3a1-10873da6a93e "PDF" %}})  
   
 Back to Varieties
 {{< tdclose >}}
@@ -110,7 +111,7 @@ Back to Varieties
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Projective Varieties ([PDF]({{< baseurl >}}/resources/notes100703))
+Projective Varieties ({{% resource_link 1fb5830e-6d32-1397-9725-cacc0fc575fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +120,7 @@ Projective Varieties ([PDF]({{< baseurl >}}/resources/notes100703))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-A Review on Projective Varieties ([PDF]({{< baseurl >}}/resources/notes100903))  
+A Review on Projective Varieties ({{% resource_link 4e9f6783-afee-0bab-05b0-14710b6f24e5 "PDF" %}})  
   
 Product of Varieties
 {{< tdclose >}}
@@ -130,7 +131,7 @@ Product of Varieties
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Applications ([PDF]({{< baseurl >}}/resources/notes101403))
+Applications ({{% resource_link a3832bf7-5957-54a5-3c42-6aa9c06f813e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ Applications ([PDF]({{< baseurl >}}/resources/notes101403))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Recap on the Applications ([PDF]({{< baseurl >}}/resources/notes101603))  
+Recap on the Applications ({{% resource_link ca444f6c-b600-9d2b-7d3c-8ea810cf68e4 "PDF" %}})  
   
 Next Definition of Variety  
   
@@ -152,7 +153,7 @@ Dimension
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Homework 5 Problem ([PDF]({{< baseurl >}}/resources/notes102103))  
+Homework 5 Problem ({{% resource_link 4da73460-5968-17a5-1745-c74a6403c130 "PDF" %}})  
   
 Dimension  
   
@@ -165,7 +166,7 @@ Future Applications
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Back to Dimension ([PDF]({{< baseurl >}}/resources/notes102303))  
+Back to Dimension ({{% resource_link 514b1ece-d8d3-c1cc-83c2-c271f934a57a "PDF" %}})  
   
 Krull Dimension
 {{< tdclose >}}
@@ -176,7 +177,7 @@ Krull Dimension
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Fibers of Morphisms ([PDF]({{< baseurl >}}/resources/notes102803))
+Fibers of Morphisms ({{% resource_link 885b0a08-b97a-0dd8-19f4-76bb072721df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +186,7 @@ Fibers of Morphisms ([PDF]({{< baseurl >}}/resources/notes102803))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Fiber Products ([PDF]({{< baseurl >}}/resources/notes103003))  
+Fiber Products ({{% resource_link f5288365-b895-1f15-77d6-0f488473d4aa "PDF" %}})  
   
 Back to the Theorem  
   
@@ -198,7 +199,7 @@ Complete Varities
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Completeness ([PDF]({{< baseurl >}}/resources/notes110403))  
+Completeness ({{% resource_link 14805bac-8363-a28a-7b2c-ab2cf2f3f010 "PDF" %}})  
   
 Complex Topology
 {{< tdclose >}}
@@ -209,7 +210,7 @@ Complex Topology
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Chow's Lemma ([PDF]({{< baseurl >}}/resources/notes110603))  
+Chow's Lemma ({{% resource_link f02651db-8e88-fd6c-942d-9925a6fc20d3 "PDF" %}})  
   
 Analytic Spaces
 {{< tdclose >}}
@@ -220,7 +221,7 @@ Analytic Spaces
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Curves ([PDF]({{< baseurl >}}/resources/notes112003))
+Curves ({{% resource_link a936eb11-cd46-9d09-25e4-ab8133f078ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ Curves ([PDF]({{< baseurl >}}/resources/notes112003))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-What is Next? ([PDF]({{< baseurl >}}/resources/notes112503))  
+What is Next? ({{% resource_link 480734b4-2747-363c-fc74-ea793078b45f "PDF" %}})  
   
 How to Study Curves
 {{< tdclose >}}
