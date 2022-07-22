@@ -5,6 +5,7 @@ file: /courses/18-725-algebraic-geometry-fall-2003/36670dc0d1f15bce2d186bdd7b923
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps6.pdf
 uid: 36670dc0-d1f1-5bce-2d18-6bdd7b923ff5
 ---
 Problem set associated with Lecture 13.
-
