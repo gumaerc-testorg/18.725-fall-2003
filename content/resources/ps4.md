@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set associated with Lecture 9.
 file: /courses/18-725-algebraic-geometry-fall-2003/e5171a279b9fb5e00bbddfe046322abb_ps4.pdf
+file_size: 94900
 file_type: application/pdf
 learning_resource_types:
 - Assignments
