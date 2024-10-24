@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set associated with Lecture 6.
-file: /courses/18-725-algebraic-geometry-fall-2003/8710803d9c6d66be94967995f4b01f65_ps3.pdf
+file: /ol-ocw-studio-app/courses/18-725-algebraic-geometry-fall-2003/8710803d9c6d66be94967995f4b01f65_ps3.pdf
 file_size: 87423
 file_type: application/pdf
 learning_resource_types:
