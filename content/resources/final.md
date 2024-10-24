@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam questions.
-file: /courses/18-725-algebraic-geometry-fall-2003/289a5fdf096d26608c9a8bc8e2c66882_final.pdf
+file: /ol-ocw-studio-app/courses/18-725-algebraic-geometry-fall-2003/289a5fdf096d26608c9a8bc8e2c66882_final.pdf
 file_size: 82264
 file_type: application/pdf
 learning_resource_types:
